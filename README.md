@@ -203,20 +203,6 @@ lia "List all PDF files"
 ```
 *Python Mode automatically activates for complex tasks that native commands can't handle!*
 
-## 📚 Additional Documentation
-
-### Core Documentation
-- **[FEATURES.md](FEATURES.md)** - Complete feature list with 100+ examples
-- **[QUICKSTART.md](QUICKSTART.md)** - Get running in 5 minutes
-- **[ARCHITECTURE.md](ARCHITECTURE.md)** - Technical deep dive
-- **[CONFIGURATION.md](CONFIGURATION.md)** - All configuration options
-
-### 🐍 Python Mode Documentation
-- **[PYTHON_MODE_QUICKSTART.md](PYTHON_MODE_QUICKSTART.md)** - Get started with Python Mode in 5 minutes
-- **[PYTHON_INTEGRATION_GUIDE.md](PYTHON_INTEGRATION_GUIDE.md)** - Complete Python Mode technical guide
-- **[PYTHON_MODE_EXAMPLES.md](PYTHON_MODE_EXAMPLES.md)** - 20+ examples and use cases
-- **[PYTHON_MODE_IMPLEMENTATION.md](PYTHON_MODE_IMPLEMENTATION.md)** - Implementation details
-
 ## 🏗️ Architecture
 
 ### Backend (Python/FastAPI)
