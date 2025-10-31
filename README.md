@@ -59,7 +59,7 @@ Before running LIA, ensure you have:
 ### 0. One-Command Setup (installs Ollama if missing)
 
 ```bash
-git clone 
+git clone https://github.com/Yusiko99/LIA
 cd /home/$USERNAMEHERE$/LIA
 chmod +x setup.sh
 ./setup.sh
