@@ -60,9 +60,11 @@ Before running LIA, ensure you have:
 
 ```bash
 git clone https://github.com/Yusiko99/LIA
-cd /home/$USERNAMEHERE$/LIA
+cd LIA
 chmod +x setup.sh
 ./setup.sh
+cd frontend
+npm install
 ./run.sh
 ```
 
